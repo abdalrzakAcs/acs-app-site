@@ -1,1 +1,0 @@
-import{D as e,ct as t,it as n,ut as r}from"./index-N4Bpoys5.js";var i=n();function a({statuses:n,code:a,fallback:o=`بلا حالة`}){let s=t(n,a);return(0,i.jsx)(e,{tone:r(s),dot:!0,children:s?.label_ar??o})}export{a as t};
