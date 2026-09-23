@@ -1,1 +1,0 @@
-import{Bt as e,D as t,Pt as n,Rt as r}from"./index-BRS9tS-v.js";var i=n();function a({statuses:n,code:a,fallback:o=`بلا حالة`}){let s=r(n,a);return(0,i.jsx)(t,{tone:e(s),dot:!0,children:s?.label_ar??o})}export{a as t};
